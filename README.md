@@ -15,12 +15,12 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java, Kotlin, or anything related to Android development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/abdulrahman-mohammad/
+- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/abdulrahmanragab
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdulrahman-mohammad/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ragab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdulrahmanragab" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ragab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/boodyherfy" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ragab-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/abdulrahman.mohammad.3323" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ragab-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
